@@ -1,5 +1,5 @@
-train: morep/images/train
-val: morep/images/val
+train: images/train
+val: images/val
 
 nc: 43
 
