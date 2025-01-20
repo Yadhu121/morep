@@ -1,5 +1,5 @@
-train: /home/Yadhu/Restart/model/images/train
-val: /home/Yadhu/Restart/model/images/val
+train: morep/images/train
+val: morep/images/val
 
 nc: 43
 
